@@ -36,7 +36,6 @@
 - Настройки файлов RenderView HDR/LDR теперь синхронизируются с настройками RS ROP
 
 ### Во всех сборках
-- [All] Making some of the direct lighting optimizations of 3.0.60 somewhat less "eager" to avoid edge case scenarios where lights were not sampled sufficiently
 - Оптимизирован direct lightig, чтобы избежать ЧП, когда освещение не было сэмплировано в достаточной степени
 - Исправлено недавно выявленный баг, из-за которого текстуры с mip-map имели черную заливку
 - Исправлено выявленный баг в версии 3.0.60, из-за которого out-of-core система текстур могла крашиться,
