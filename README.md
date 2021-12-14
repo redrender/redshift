@@ -1,5 +1,5 @@
 # Скачать Redshift Render v3.0.61 для Сinema 4D / Houdini / Blender / Maya / 3ds Max
-![Alt text](https://github.com/redrender/redshift-v3.0.61/blob/main/redshift-image.jpeg?raw=true "Title")
+![Alt text](https://github.com/redrender/redshift-v3.0.61/blob/main/redshift-image.jpeg?raw=true "REDSHIFT")
 
 Для версий Redshift 3.0 под Windows и Linux требуются последние или новейшие драйверы Nvidia. Эти версии содержат поддержку OptiX7, которая является частью драйвера Nvidia. Редшифт для Мак версии 3.0.45 и выше требуется macOS Big Sur 11.3 или выше. Если вы получаете неожиданные ошибки "License Mismatch", вам необходимо обновить macOS.
 
