@@ -1,4 +1,3 @@
-google-site-verification: google6b627dc80c474a20.html
 # Скачать Redshift Render v3.0.61 для Сinema 4D / Houdini / Blender / Maya / 3ds Max
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fredrender%2Fredshift-v3.0.61&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=&edge_flat=false)](https://hits.seeyoufarm.com)
 ![Alt text](https://github.com/redrender/redshift-v3.0.61/blob/main/redshift-image.jpeg?raw=true "REDSHIFT")
